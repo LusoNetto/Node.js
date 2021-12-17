@@ -11,7 +11,7 @@ Aula 1 - Aprenda sobre os conceitos de Node.js e crie um ambiente; :white_check_
 
 Aula 2 - Criando uma API com Express; :white_check_mark:
 
-Aula 3 - Criando uma ferramenta com CLI; :clock3:
+Aula 3 - Criando uma ferramenta com CLI; :white_check_mark:
 
 Aula 4 - Aprenda a trabalhar com Commander.js; :clock3:
 
