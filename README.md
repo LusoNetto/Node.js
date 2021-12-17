@@ -9,7 +9,7 @@ Jornada do Herói :sunrise_over_mountains::
 
 Aula 1 - Aprenda sobre os conceitos de Node.js e crie um ambiente; :white_check_mark:
 
-Aula 2 - Criando uma API com Express; :clock3:
+Aula 2 - Criando uma API com Express; :white_check_mark:
 
 Aula 3 - Criando uma ferramenta com CLI; :clock3:
 
