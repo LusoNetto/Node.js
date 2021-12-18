@@ -17,4 +17,4 @@ Aula 4 - Aprenda a trabalhar com Commander.js; :white_check_mark:
 
 Aula 5 - Como usar Pug em projetos; :white_check_mark:
 
-Aula 6 - Integrando Pug com Express; :clock3:
+Aula 6 - Integrando Pug com Express; :white_check_mark:
