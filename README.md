@@ -13,8 +13,8 @@ Aula 2 - Criando uma API com Express; :white_check_mark:
 
 Aula 3 - Criando uma ferramenta com CLI; :white_check_mark:
 
-Aula 4 - Aprenda a trabalhar com Commander.js; :clock3:
+Aula 4 - Aprenda a trabalhar com Commander.js; :white_check_mark:
 
-Aula 5 - Como usar Pug em projetos; :clock3:
+Aula 5 - Como usar Pug em projetos; :white_check_mark:
 
 Aula 6 - Integrando Pug com Express; :clock3:
