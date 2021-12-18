@@ -3,7 +3,7 @@ Olá Bem vindo ao meu repositório de Node.js :computer:
 
 Estou começando a estudar Node.js então vamos com calma...
 
-Estou aprendendo a Introdução ao Node.js com Express:
+Aprendi a Introdução ao Node.js com Express:
 
 Jornada do Herói :sunrise_over_mountains:: 
 
