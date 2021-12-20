@@ -1,0 +1,25 @@
+{
+  "name": "node-clima-137",
+  "version": "0.0.1",
+  "description": "CLI que mostra o clima de uma cidade em tempo real",
+  "preferGlobal": true,
+  "bin": {
+    "clima": "bin/clima"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [],
+  "author": "Luso Netto",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
